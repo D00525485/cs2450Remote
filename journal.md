@@ -11,3 +11,7 @@ a system error. and ChatGPT's answer didn't work. We made a list of ideas for th
 and some of it might rely on me finishing the MAGI Project, which I should actually be able
 to get started on later today, seeing as I'm buying skylers old server, which
 should (hopefully) be able to run a pretty good model once I actually install some GPUs
+
+Date: 9.19.25 - Boring week, pretty much nothing happened. I bombed a bio test, and possibly 
+a mech test. But overall pretty much nothing has happened in this class, at least nothing too 
+important (no offense). Also, I definitely did NOT forget to do a journal entry last week (see hypno.jpg).
